@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c5db4eb3-3d08-4c13-8d1b-2a3fe87eb1a6": {
+      "ProjectGuid": "c5db4eb3-3d08-4c13-8d1b-2a3fe87eb1a6",
+      "DisplayName": "WebApi",
+      "ColorIndex": 0
+    },
+    "f98d9338-6bc8-493f-981d-3774ad743c63": {
+      "ProjectGuid": "f98d9338-6bc8-493f-981d-3774ad743c63",
+      "DisplayName": "Data",
+      "ColorIndex": 1
+    },
+    "a5d7ea05-e530-4847-8333-e73714d208e6": {
+      "ProjectGuid": "a5d7ea05-e530-4847-8333-e73714d208e6",
+      "DisplayName": "Repository",
+      "ColorIndex": 2
+    },
+    "81d8aede-2d5f-4d88-af62-188adf0587a4": {
+      "ProjectGuid": "81d8aede-2d5f-4d88-af62-188adf0587a4",
+      "DisplayName": "Service",
+      "ColorIndex": 3
+    },
+    "1c8a4a8c-086e-48e8-9483-68ced90d61b2": {
+      "ProjectGuid": "1c8a4a8c-086e-48e8-9483-68ced90d61b2",
+      "DisplayName": "ViewModel",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
